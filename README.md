@@ -17,8 +17,8 @@
 
 <h5>Full Stack Dot-Net</h5>		
 
-![MVC Core Dot net](https://tse1.mm.bing.net/th?id=OIP.Pswj6TpUEJSFLsu9ULmtKwHaIH&pid=Api&P=0?style=for-the-badge&logo=Flutter&logoColor=white)
-![C#](https://tse4.mm.bing.net/th?id=OIP.C6XqgPU6MdvAthEvuRFK_QAAAA&pid=Api&P=0?style=for-the-badge&logo=dart&logoColor=white)
+![MVC Core Dot net](https://img.shields.io/badge/.NET-%2300f.svg?style=for-the-badge&logo=.NET&logoColor=white)
+![C#](https://img.shields.io/badge/C Sharp-%2300f.svg?style=for-the-badge&logo=C Sharp&logoColor=white)
 ![MS Sql](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/logo-microsoft-sql-server-595x3350.jpg?itok=yF51O5OL?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://miro.medium.com/max/1000/1*JWcKdjkJlUbPCu8Z2lKHzg.png?style=for-the-badge&logo=postgresql&logoColor=white)
