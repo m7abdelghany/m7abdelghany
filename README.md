@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Mohamed Lotfy 🧑‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Mohamed Abdelghany 🧑‍💻 </h1>
 
 
 
@@ -18,11 +18,11 @@
 <h5>Full Stack Dot-Net</h5>		
 
 ![MVC Core Dot net](https://img.shields.io/badge/.NET-%2300f.svg?style=for-the-badge&logo=.NET&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C-Sharp-%#239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
-![MS Sql](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/logo-microsoft-sql-server-595x3350.jpg?itok=yF51O5OL?style=for-the-badge&logo=firebase)
+![C#](https://img.shields.io/badge/c_sharp-239120.svg?style=for-the-badge&logo=c_sharpp&logoColor=white)
+![MS Sql](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft_sql_server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://miro.medium.com/max/1000/1*JWcKdjkJlUbPCu8Z2lKHzg.png?style=for-the-badge&logo=postgresql&logoColor=white)
-![PhP](https://lofrev.net/wp-content/photos/2017/05/php_icon_logo.png?style=for-the-badge&logo=sqlite&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PhP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 
@@ -30,13 +30,13 @@
 <h4>🔧 Languages & Tools</h4>
 
 
-<img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api?username=mohamedlotfy50&show_icons=true&theme=radical">
-<img align="left" width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedlotfy50&layout=compact"><br/>
+<img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api?username=m7abdelghany&show_icons=true&theme=radical">
+<img align="left" width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7abdelghany&layout=compact"><br/>
 
 
 
 <!--
-**mohamedlotfy50/mohamedlotfy50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**m7adbelghany/m7adbelghany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
